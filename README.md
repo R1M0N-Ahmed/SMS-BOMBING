@@ -12,11 +12,11 @@
 
 ✔️ pkg install git
 
-✔️ git clone https://github.com/R1M0N-Ahmed/SMS-BOMBER
+✔️ git clone https://github.com/R1M0N-Ahmed/SMS-BOMBING
 
-✔️ cd SMS-BOMBER
+✔️ cd SMS-BOMBING
 
-✔️ python bomber.py 
+✔️ python bombing.py 
 
 ✔️ Password : Rimon
 
